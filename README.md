@@ -2,7 +2,7 @@
   <img src="./assets/github-profile-banner.svg" alt="Ari Tripathi — Builder, Researcher, Technologist. Human-centered AI, interaction design, and spatial computing." width="100%" />
 </p>
 
-# Ari Tripathi
+# Arindam Shiva Tripathi
 
 **Builder · Researcher · Technologist**
 
