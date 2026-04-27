@@ -1,43 +1,37 @@
-<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Ari Tripathi GitHub profile banner</title>
-  <desc id="desc">A restrained editorial banner reading Ari Tripathi, Builder Researcher Technologist, Human-centered AI, Interaction Design, Spatial Computing.</desc>
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Arindam Tripathi GitHub profile banner</title>
+  <desc id="desc">A restrained editorial banner reading Arindam Tripathi, Builder Researcher Technologist, Human-centered AI, Interaction Design, Spatial Computing.</desc>
 
-  <rect width="1600" height="520" fill="#F5F2EE"/>
+  <rect width="1600" height="420" fill="#F5F2EE"/>
 
-  <circle cx="1310" cy="120" r="180" fill="#DED6CF" opacity="0.55"/>
-  <circle cx="1460" cy="430" r="240" fill="#E8E0D8" opacity="0.7"/>
-  <path d="M0 430 C250 380 410 470 650 420 C900 368 1040 276 1600 324" stroke="#DED6CF" stroke-width="2" opacity="0.9"/>
-  <path d="M0 468 C280 420 450 500 720 455 C950 417 1180 360 1600 388" stroke="#D7CEC7" stroke-width="1.5" opacity="0.7"/>
+  <circle cx="1320" cy="80" r="180" fill="#DED6CF" opacity="0.52"/>
+  <circle cx="1490" cy="365" r="230" fill="#E8E0D8" opacity="0.72"/>
 
-  <g transform="translate(120 108)">
-    <text x="0" y="0" font-family="Georgia, 'Times New Roman', serif" font-size="34" letter-spacing="1.5" fill="#6B5F55">
+  <path d="M0 330 C250 292 440 356 690 315 C945 273 1120 230 1600 268" stroke="#DED6CF" stroke-width="2" opacity="0.9"/>
+  <path d="M0 366 C290 326 500 386 760 350 C1000 316 1210 296 1600 325" stroke="#D7CEC7" stroke-width="1.5" opacity="0.75"/>
+
+  <g transform="translate(120 92)">
+    <text x="0" y="0" font-family="Georgia, 'Times New Roman', serif" font-size="30" letter-spacing="1.6" fill="#6B5F55">
       BUILDER · RESEARCHER · TECHNOLOGIST
     </text>
 
-    <text x="0" y="104" font-family="Inter, Arial, sans-serif" font-size="86" font-weight="650" letter-spacing="-3" fill="#3D312A">
-      Ari Tripathi
+    <text x="0" y="102" font-family="Inter, Arial, sans-serif" font-size="92" font-weight="650" letter-spacing="-3.2" fill="#3D312A">
+      Arindam Tripathi
     </text>
 
-    <text x="0" y="180" font-family="Inter, Arial, sans-serif" font-size="38" letter-spacing="-0.7" fill="#3D312A">
+    <text x="0" y="170" font-family="Inter, Arial, sans-serif" font-size="36" letter-spacing="-0.6" fill="#3D312A">
       I design and build systems for people.
     </text>
 
-    <g transform="translate(0 242)">
-      <rect x="0" y="0" width="250" height="52" rx="26" fill="#FFFFFF" stroke="#DED6CF"/>
-      <text x="28" y="34" font-family="Inter, Arial, sans-serif" font-size="21" fill="#3D312A">Human-centered AI</text>
+    <g transform="translate(0 228)">
+      <rect x="0" y="0" width="255" height="54" rx="27" fill="#FFFFFF" stroke="#DED6CF"/>
+      <text x="30" y="36" font-family="Inter, Arial, sans-serif" font-size="22" fill="#3D312A">Human-centered AI</text>
 
-      <rect x="274" y="0" width="252" height="52" rx="26" fill="#FFFFFF" stroke="#DED6CF"/>
-      <text x="302" y="34" font-family="Inter, Arial, sans-serif" font-size="21" fill="#3D312A">Interaction Design</text>
+      <rect x="280" y="0" width="256" height="54" rx="27" fill="#FFFFFF" stroke="#DED6CF"/>
+      <text x="310" y="36" font-family="Inter, Arial, sans-serif" font-size="22" fill="#3D312A">Interaction Design</text>
 
-      <rect x="550" y="0" width="260" height="52" rx="26" fill="#FFFFFF" stroke="#DED6CF"/>
-      <text x="578" y="34" font-family="Inter, Arial, sans-serif" font-size="21" fill="#3D312A">Spatial Computing</text>
+      <rect x="560" y="0" width="265" height="54" rx="27" fill="#FFFFFF" stroke="#DED6CF"/>
+      <text x="590" y="36" font-family="Inter, Arial, sans-serif" font-size="22" fill="#3D312A">Spatial Computing</text>
     </g>
-  </g>
-
-  <g transform="translate(1210 300)" opacity="0.95">
-    <rect x="0" y="0" width="220" height="120" rx="22" fill="#FFFFFF" stroke="#DED6CF"/>
-    <text x="28" y="44" font-family="Inter, Arial, sans-serif" font-size="18" fill="#6B5F55">AI systems</text>
-    <text x="28" y="76" font-family="Inter, Arial, sans-serif" font-size="18" fill="#6B5F55">UX engineering</text>
-    <text x="28" y="108" font-family="Inter, Arial, sans-serif" font-size="18" fill="#6B5F55">XR prototypes</text>
   </g>
 </svg>
