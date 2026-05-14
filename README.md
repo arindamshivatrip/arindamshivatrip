@@ -5,8 +5,6 @@
 # Arindam Tripathi
 
 **Builder · Researcher · Technologist**
-![Profile views](https://komarev.com/ghpvc/?username=arindamshivatrip&style=flat)
-
 
 I design and build systems for people across **AI systems, interaction design, and spatial computing**.
 
