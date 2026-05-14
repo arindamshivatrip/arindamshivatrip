@@ -6,6 +6,8 @@
 
 **Builder · Researcher · Technologist**
 ![Profile views](https://komarev.com/ghpvc/?username=arindamshivatrip&style=flat)
+
+
 I design and build systems for people across **AI systems, interaction design, and spatial computing**.
 
 My work sits between engineering, design, and human behavior: ML-backed planning tools, browser utilities, research-driven product studies, XR prototypes, and interfaces that make complex workflows easier to understand and use.
