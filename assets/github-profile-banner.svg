@@ -1,143 +1,117 @@
-<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none"
-     xmlns="http://www.w3.org/2000/svg"
-     role="img"
-     aria-labelledby="title desc">
-
+<svg
+  width="1600"
+  height="500"
+  viewBox="0 0 1600 500"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-labelledby="title desc"
+>
   <title id="title">Arindam Tripathi</title>
   <desc id="desc">
-    Arindam Tripathi — designer-engineer, HCI researcher, and creative technologist
-    working across human-AI interaction and spatial computing.
+    Arindam Tripathi — designer and engineer working across human-computer
+    interaction, spatial computing, and human-AI interaction.
   </desc>
 
-  <!-- PAPER -->
-  <rect width="1600" height="500" fill="#F3EFE7"/>
+  <!-- background -->
+  <rect width="1600" height="500" fill="#F1EEE8"/>
 
-  <!-- TOP EDITORIAL RULE -->
-  <line x1="76" y1="62" x2="1524" y2="62"
-        stroke="#171512" stroke-width="2"/>
+  <!-- top rule -->
+  <line
+    x1="88"
+    y1="72"
+    x2="1512"
+    y2="72"
+    stroke="#1C1B19"
+    stroke-width="1.5"
+  />
 
-  <!-- ISSUE METADATA -->
-  <text x="76" y="43"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="15"
-        font-weight="600"
-        letter-spacing="3"
-        fill="#171512">
-    ISSUE 01
+  <!-- name -->
+  <text
+    x="84"
+    y="235"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="116"
+    font-weight="400"
+    letter-spacing="-4"
+    fill="#171614"
+  >
+    Arindam
   </text>
 
-  <text x="800" y="43"
-        text-anchor="middle"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="15"
-        letter-spacing="3"
-        fill="#6D675F">
-    DESIGN · TECHNOLOGY · HUMAN EXPERIENCE
+  <text
+    x="84"
+    y="345"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="116"
+    font-weight="400"
+    letter-spacing="-4"
+    fill="#171614"
+  >
+    Tripathi
   </text>
 
-  <text x="1524" y="43"
-        text-anchor="end"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="15"
-        letter-spacing="3"
-        fill="#171512">
-    FALL 2026
-  </text>
-
-  <!-- SMALL KICKER -->
-  <text x="78" y="115"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="17"
-        font-weight="600"
-        letter-spacing="4"
-        fill="#8D2635">
-    DESIGNER–ENGINEER / HCI RESEARCHER / CREATIVE TECHNOLOGIST
-  </text>
-
-  <!-- MASTHEAD -->
-  <text x="70" y="260"
-        font-family="Georgia, 'Times New Roman', serif"
-        font-size="135"
-        font-weight="400"
-        letter-spacing="-6"
-        fill="#171512">
-    Arindam Tripathi
-  </text>
-
-  <!-- EDITORIAL SIDEBAR COPY -->
-  <line x1="80" y1="310" x2="1520" y2="310"
-        stroke="#CFC8BD" stroke-width="1.5"/>
-
-  <text x="80" y="354"
-        font-family="Georgia, 'Times New Roman', serif"
-        font-size="30"
-        font-style="italic"
-        fill="#171512">
-    Building systems that make new technology feel human.
-  </text>
-
-  <!-- BOTTOM TAXONOMY -->
-  <g transform="translate(80 408)">
-    <text x="0" y="0"
-          font-family="Arial, Helvetica, sans-serif"
-          font-size="16"
-          font-weight="700"
-          letter-spacing="2"
-          fill="#171512">
-      HUMAN–AI INTERACTION
+  <!-- right column -->
+  <g
+    font-family="Arial, Helvetica, sans-serif"
+    fill="#171614"
+  >
+    <text
+      x="1065"
+      y="188"
+      font-size="26"
+      font-weight="600"
+      letter-spacing="-0.2"
+    >
+      Designer &amp; Engineer
     </text>
 
-    <text x="265" y="0"
-          font-family="Georgia, 'Times New Roman', serif"
-          font-size="18"
-          fill="#8D2635">
-      /
+    <text
+      x="1065"
+      y="238"
+      font-size="20"
+      fill="#55514B"
+    >
+      Human–Computer Interaction
     </text>
 
-    <text x="300" y="0"
-          font-family="Arial, Helvetica, sans-serif"
-          font-size="16"
-          font-weight="700"
-          letter-spacing="2"
-          fill="#171512">
-      SPATIAL COMPUTING
+    <text
+      x="1065"
+      y="276"
+      font-size="20"
+      fill="#55514B"
+    >
+      Spatial Computing
     </text>
 
-    <text x="544" y="0"
-          font-family="Georgia, 'Times New Roman', serif"
-          font-size="18"
-          fill="#8D2635">
-      /
-    </text>
-
-    <text x="580" y="0"
-          font-family="Arial, Helvetica, sans-serif"
-          font-size="16"
-          font-weight="700"
-          letter-spacing="2"
-          fill="#171512">
-      INTERACTION DESIGN
+    <text
+      x="1065"
+      y="314"
+      font-size="20"
+      fill="#55514B"
+    >
+      Human–AI Interaction
     </text>
   </g>
 
-  <!-- BOTTOM RULE + FOLIO -->
-  <line x1="76" y1="458" x2="1524" y2="458"
-        stroke="#171512" stroke-width="2"/>
-
-  <text x="76" y="484"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="12"
-        letter-spacing="2"
-        fill="#6D675F">
-    ARINDAMTRIPATHI.COM
+  <!-- bottom -->
+  <text
+    x="88"
+    y="435"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="15"
+    letter-spacing="0.6"
+    fill="#55514B"
+  >
+    arindamtripathi.com
   </text>
 
-  <text x="1524" y="484"
-        text-anchor="end"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="12"
-        letter-spacing="2"
-        fill="#6D675F">
-    01 / 01
-  </text>
+  <line
+    x1="88"
+    y1="462"
+    x2="1512"
+    y2="462"
+    stroke="#1C1B19"
+    stroke-width="1.5"
+  />
 </svg>
