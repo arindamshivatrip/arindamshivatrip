@@ -1,6 +1,6 @@
 <p align="left">
   <img
-    src="./assets/github-profile-banner-v2.svg"
+    src="./assets/github-profile-banner.svg"
     alt="Arindam Tripathi — Designer & Engineer working across HCI, spatial computing, and human–AI interaction."
     width="100%"
   />
